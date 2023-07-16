@@ -50,9 +50,9 @@ Es importante acotar, que para este proyecto solamente utilizamos los datos corr
 
 ## Herramientas Utilizadas
 
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="110" height="110"/> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="100" height="100"/> </a> <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="100"/> </a> 
-
-<a href="https://plotly.com/" target="_blank"> <img src="https://images.prismic.io/plotly-marketing-website-2/69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-lg.png" alt="plotly" width="150" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="60" height="60"/> </a>  <a href="https://powerbi.microsoft.com//" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-500x281.png" alt="PB" width="70" height="50"/> </a>  
+ <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="100" height="100"/> </a> <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="100"/> </a> 
+ 
+ <a href="https://plotly.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/220px-Plotly-logo.png" alt="plotly" width="150" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="60" height="60"/> </a>  <a href="https://powerbi.microsoft.com//" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-500x281.png" alt="PB" width="70" height="50"/> </a>  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="Pandas" width="100" height="50"/> </a>
 
 ###
 
